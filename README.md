@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Sakeena Patel
+![Python](https://img.shields.io/badge/Python-AI-blue)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
+![LLM](https://img.shields.io/badge/LLM-RAG-green)
+![FastAPI](https://img.shields.io/badge/API-FastAPI-red)
+![LangChain](https://img.shields.io/badge/Framework-LangChain-purple)
 
-<!--
-**sakeena-7878/sakeena-7878** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an AI Engineer focused on building scalable backend systems, LLM-driven applications, and automated pipelines.
 
-Here are some ideas to get you started:
+I build:
+- Retrieval-Augmented Generation (RAG) systems
+- AI-powered information retrieval pipelines
+- Machine learning prediction models
+- AI backend services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🧠 Technical Skills
+
+### Programming
+Python, SQL
+
+### Machine Learning
+Scikit-learn  
+Feature Engineering  
+Model Evaluation  
+Classification / Regression
+
+### Deep Learning
+TensorFlow  
+PyTorch  
+CNNs  
+Transfer Learning
+
+### LLM Systems
+RAG Pipelines  
+LangChain  
+Embeddings  
+Prompt Engineering  
+Query Expansion
+
+### Tools
+FastAPI  
+Git  
+Streamlit  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sakeena-7878&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakeena-7878&layout=compact)
+
+
+---
+
+## Main Portfolio
+
+https://github.com/dataWizard7957
