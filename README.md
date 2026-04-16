@@ -15,7 +15,7 @@ I build:
 
 ---
 
-# 🧠 Technical Skills
+## Technical Skills
 
 ### Programming
 Python, SQL
