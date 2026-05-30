@@ -56,7 +56,6 @@ Streamlit
 
 ![Metrics](https://metrics.lecoq.io/sakeena-7878)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sakeena-7878&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ## Main Portfolio
