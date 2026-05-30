@@ -15,9 +15,7 @@ I build:
 
 ---
 
-## Technical Skills
-
-## ⚡ Tech Stack
+## ⚡Technical Skills
 
 🐍 **Languages:** Python • SQL
 
