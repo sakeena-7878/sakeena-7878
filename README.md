@@ -17,13 +17,15 @@ I build:
 
 ## Technical Skills
 
-#### **Languages:** Python • SQL
+## ⚡ Tech Stack
 
-#### **Machine Learning:** Scikit-Learn • TensorFlow • PyTorch • Feature Engineering • Model Evaluation • Classification • Regression
+🐍 **Languages:** Python • SQL
 
-#### **LLM & Retrieval:** LangChain • ChromaDB • Sentence Transformers • Embeddings • Prompt Engineering • RAG • Query Expansion • AI Agents
+🤖 **ML/DL:** Scikit-Learn • TensorFlow • PyTorch • Feature Engineering • Classification • Regression
 
-#### **Backend & Tools:** FastAPI • Streamlit • Git • Docker
+🧠 **LLMs & RAG:** LangChain • ChromaDB • Sentence Transformers • Embeddings • Prompt Engineering • Query Expansion • AI Agents
+
+⚙️ **Backend & Tools:** FastAPI • Streamlit • Git • Docker
 
 ---
 
